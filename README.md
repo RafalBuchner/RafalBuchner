@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, 👋
+
+I’m a type designer and coder focused on building tools that make life easier for fellow type designers. You might have encountered some of my work, like [StemThickness](https://github.com/RafalBuchner/StemThickness) or [StemPlow](https://github.com/RafalBuchner/StemPlow).
 
 <!--
 **RafalBuchner/RafalBuchner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
